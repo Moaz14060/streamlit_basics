@@ -3,3 +3,4 @@ numpy
 seaborn
 missingno
 matplotlib
+sklearn
