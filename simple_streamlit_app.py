@@ -15,7 +15,7 @@ st.divider()
 st.header("Data Frame")
 st.write("Data Frame about Kidney Disease Risk:")
 # Reading the data
-df=pd.read_csv("F:/kidney_disease_dataset.csv")
+df=pd.read_csv("dataset/kidney_disease_dataset.csv")
 # Showing the data frame
 st.dataframe(df)
 st.divider()
@@ -114,4 +114,5 @@ if center:
     st.divider()
     # Conclusion
     st.markdown("<h1 style='text-align: center; color: black;'>Thank You!</h1>", unsafe_allow_html=True)
+
 
