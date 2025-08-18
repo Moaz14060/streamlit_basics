@@ -4,3 +4,4 @@ seaborn
 missingno
 matplotlib
 sklearn
+streamlit
