@@ -4,4 +4,4 @@ numpy
 seaborn
 missingno
 matplotlib
-sklearn.tree
+scikit-learn
